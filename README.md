@@ -2,7 +2,7 @@
 
 # MPU9250-AHRS-Arduino
 
-利用MPU9250和Aruduino UNO搭建一个简易的ARHS硬件平台，如下图所示，
+利用MPU9250和Aruduino UNO搭建一个简易的AHRS硬件平台，如下图所示，
 
 <p align="center">
   <img src="./images/demo2.jpg" width="300" />
