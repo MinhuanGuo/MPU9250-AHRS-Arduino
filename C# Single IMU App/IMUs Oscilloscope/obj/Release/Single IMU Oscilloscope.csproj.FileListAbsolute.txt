@@ -1,0 +1,38 @@
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Release\Oscilloscope\Osc_DLL.dll
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.exe.config
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.exe
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.pdb
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs_Oscilloscope.FormTerminal.resources
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs_Oscilloscope.Properties.Resources.resources
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Release\Single IMU Oscilloscope.csproj.GenerateResource.cache
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Release\Single IMU Oscilloscope.csproj.CoreCompileInputs.cache
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.exe
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.pdb
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\Back.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\BackInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\Bottom.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\BottomInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\Front.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\FrontInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\Left.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\LeftInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\Right.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\RightInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\Top.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Form_3Dcuboid\TopInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Oscilloscope\Osc_DLL.dll
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.exe.config
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.exe
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.pdb
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Tao.OpenGl.dll
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Tao.Platform.Windows.dll
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Tao.OpenGl.xml
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Release\Tao.Platform.Windows.xml
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Release\IMUs_Oscilloscope.FormTerminal.resources
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Release\x_IMU_IMU_and_AHRS_Algorithms.Form_3Dcuboid.resources
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Release\IMUs_Oscilloscope.Properties.Resources.resources
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Release\Single IMU Oscilloscope.csproj.GenerateResource.cache
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Release\Single IMU Oscilloscope.csproj.CoreCompileInputs.cache
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Release\Single IMU Oscilloscope.csproj.CopyComplete
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.exe
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.pdb

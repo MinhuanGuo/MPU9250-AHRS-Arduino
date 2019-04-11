@@ -1,0 +1,36 @@
+clear;clc;close all;
+load('data.mat');
+%%%%
+figure('Name', 'Sensor Data');
+axis(1) = subplot(2,1,1);
+hold on;
+plot(time, Gyroscope(:,1), 'r');
+plot(time, Gyroscope(:,2), 'g');
+plot(time, Gyroscope(:,3), 'b');
+legend('X', 'Y', 'Z');
+xlabel('Time (s)');
+ylabel('Angular rate (deg/s)');
+title('Gyroscope');
+hold off;
+axis(2) = subplot(2,1,2);
+hold on;
+plot(time, Accelerometer(:,1), 'r');
+plot(time, Accelerometer(:,2), 'g');
+plot(time, Accelerometer(:,3), 'b');
+legend('X', 'Y', 'Z');
+xlabel('Time (s)');
+ylabel('Acceleration (g)');
+title('Accelerometer');
+hold off;
+%%%%
+figure('Name', 'Euler Angles');
+hold on;
+plot(time, euler(:,1), 'r');
+plot(time, euler(:,2), 'g');
+plot(time, euler(:,3), 'b');
+title('Euler angles');
+xlabel('Time (s)');
+ylabel('Angle (deg)');
+% legend('\phi', '\theta');
+legend('\phi', '\theta', '\psi');
+hold off;

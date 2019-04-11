@@ -1,0 +1,11 @@
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\bin\Release\Oscilloscope\Osc_DLL.dll
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.exe.config
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.exe
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\bin\Release\IMUs Oscilloscope.pdb
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs_Oscilloscope.FormTerminal.resources
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs_Oscilloscope.Properties.Resources.resources
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.csproj.GenerateResource.cache
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.csproj.CoreCompileInputs.cache
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.exe
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.pdb
+E:\VS_temp\IMUs Oscilloscope\IMUs Oscilloscope\obj\Release\IMUs Oscilloscope.csprojAssemblyReference.cache
