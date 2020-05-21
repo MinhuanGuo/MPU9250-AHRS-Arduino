@@ -5,7 +5,7 @@
 利用MPU9250和Aruduino UNO搭建一个简易的AHRS硬件平台，如下图所示，
 
 <p align="center">
-  <img src="./images/demo2.jpg" width="300" />
+  <img src="https://github.com/MinhuanGuo/MPU9250-AHRS-Arduino/blob/master/images/demo2.jpg" width="300" />
   <img src="./images/demo3.jpg" width="300" />
   <br>
   <em>Fig. 1: 简易AHRS硬件系统，可利用蓝牙与上位机通信</em>
