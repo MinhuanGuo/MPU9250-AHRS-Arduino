@@ -38,9 +38,16 @@
 <p align="center">
   <img src="./images/arduino-and-mpu9250_bb.png" width="500" />
   <br>
-  <em>Fig. 2:Arduino与MPU9250连接示意图</em>
+  <em>Fig. 2:Arduino与MPU9250连接示意图1</em>
 </p>
 
+
+
+<p align="center">
+  <img src="./images/linkDemo.png" width="100%" />
+  <br>
+  <em>Fig. 2:Arduino与MPU9250连接示意图2</em>
+</p>
 
 ### 上位机功能
 
