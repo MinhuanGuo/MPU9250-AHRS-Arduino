@@ -38,10 +38,11 @@
 
 
 <p align="center">
-  <img src="./images/GIFdemo.gif" width="700" />
+  <img src="./images/GIFdemo.gif" width="800" />
   <br>
   <em>Fig. 3:上位机运行界面</em>
 </p>
+
 
 ## 相关驱动：
 
