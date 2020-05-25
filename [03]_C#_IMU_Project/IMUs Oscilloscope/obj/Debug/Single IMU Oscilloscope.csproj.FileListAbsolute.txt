@@ -1,0 +1,86 @@
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csprojAssemblyReference.cache
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\IMUs_Oscilloscope.FormTerminal.resources
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\IMUs_Oscilloscope.Properties.Resources.resources
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.GenerateResource.cache
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.CoreCompileInputs.cache
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\IMUs Oscilloscope.exe
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\IMUs Oscilloscope.pdb
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Oscilloscope\Osc_DLL.dll
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.exe.config
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.exe
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.pdb
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Back.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\BackInv.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Bottom.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\BottomInv.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Front.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\FrontInv.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Left.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\LeftInv.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Right.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\RightInv.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Top.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\TopInv.png
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Tao.OpenGl.dll
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Tao.Platform.Windows.dll
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Tao.OpenGl.xml
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\bin\Debug\Tao.Platform.Windows.xml
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\x_IMU_IMU_and_AHRS_Algorithms.Form_3Dcuboid.resources
+E:\VS_temp\Single IMU Oscilloscope\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.CopyComplete
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Back.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\BackInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Bottom.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\BottomInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Front.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\FrontInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Left.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\LeftInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Right.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\RightInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Top.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\TopInv.png
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Oscilloscope\Osc_DLL.dll
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.exe.config
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.exe
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.pdb
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Tao.OpenGl.dll
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Tao.Platform.Windows.dll
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Tao.OpenGl.xml
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\bin\Debug\Tao.Platform.Windows.xml
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csprojAssemblyReference.cache
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\IMUs_Oscilloscope.FormTerminal.resources
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\x_IMU_IMU_and_AHRS_Algorithms.Form_3Dcuboid.resources
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\IMUs_Oscilloscope.Properties.Resources.resources
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.GenerateResource.cache
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.CoreCompileInputs.cache
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.CopyComplete
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\IMUs Oscilloscope.exe
+E:\VS_temp\Single IMU App\IMUs Oscilloscope\obj\Debug\IMUs Oscilloscope.pdb
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Back.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\BackInv.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Bottom.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\BottomInv.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Front.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\FrontInv.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Left.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\LeftInv.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Right.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\RightInv.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\Top.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Form_3Dcuboid\TopInv.png
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Oscilloscope\Osc_DLL.dll
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.exe.config
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.exe
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\IMUs Oscilloscope.pdb
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Tao.OpenGl.dll
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Tao.Platform.Windows.dll
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Tao.OpenGl.xml
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\bin\Debug\Tao.Platform.Windows.xml
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\obj\Debug\IMUs_Oscilloscope.FormTerminal.resources
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\obj\Debug\x_IMU_IMU_and_AHRS_Algorithms.Form_3Dcuboid.resources
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\obj\Debug\IMUs_Oscilloscope.Properties.Resources.resources
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.GenerateResource.cache
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.CoreCompileInputs.cache
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\obj\Debug\Single IMU Oscilloscope.csproj.CopyComplete
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\obj\Debug\IMUs Oscilloscope.exe
+D:\[00]_MinhuanGithub\OnLine\ArduinoProjects\MPU9250-AHRS-Arduino\[03]_C#_IMU_Project\IMUs Oscilloscope\obj\Debug\IMUs Oscilloscope.pdb
