@@ -38,10 +38,11 @@
 
 
 <p align="center">
-  <img src="./images/desktop.png" width="700" />
+  <img src="./images/GIFdemo.gif" width="700" />
   <br>
   <em>Fig. 3:上位机运行界面</em>
 </p>
+
 ## 相关驱动：
 
 HC08蓝牙驱动，Arduino模块驱动，
